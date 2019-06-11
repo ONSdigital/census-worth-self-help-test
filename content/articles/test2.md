@@ -5,4 +5,4 @@ description: test2
 directory: Bad Articles
 priority: 0
 ---
-test
+test 2
