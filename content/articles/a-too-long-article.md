@@ -8,3 +8,5 @@ tags:
   - x
 ---
 Will create the article later okay
+
+Link to /image-article
