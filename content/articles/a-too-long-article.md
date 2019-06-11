@@ -9,4 +9,8 @@ tags:
 ---
 Will create the article later okay
 
-Link to /image-article
+Link to
+
+[/image-article](/image-article)
+
+[/image-article](/image-article)
