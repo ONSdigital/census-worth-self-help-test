@@ -7,7 +7,7 @@ priority: 1
 tags:
   - x
 ---
-![test](/assets/screenshot-2019-06-06-at-15.48.20.png "test")
+
 
 Will create the article later okay
 
@@ -16,3 +16,5 @@ Link to
 [/image-article](/image-article)
 
 [/image-article](/image-article)
+
+![test](/assets/screenshot-2019-06-06-at-15.48.20.png "test")
