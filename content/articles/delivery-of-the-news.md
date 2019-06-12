@@ -1,5 +1,5 @@
 ---
-title: Delivery of the newssd
+title: Delivery of the newssdd
 date: 2019-06-11T16:01:45.097Z
 description: news delivery
 directory: Good Articles
