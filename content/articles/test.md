@@ -1,8 +1,8 @@
 ---
 title: test
-date: 2019-06-12T08:54:28.933Z
+date: 2019-06-12T09:08:09.873Z
 description: test
-directory: Basic Articles
+directory: Bad Articles
 priority: 0
 ---
 test
