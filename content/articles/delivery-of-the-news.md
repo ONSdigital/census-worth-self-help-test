@@ -6,3 +6,5 @@ directory: Good Articles
 priority: 0
 ---
 ![alt test](/assets/nature_image1.jpeg "title test")
+
+![](/assets/screenshot-2019-06-06-at-15.48.01.png)
