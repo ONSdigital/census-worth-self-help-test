@@ -9,7 +9,7 @@ tags:
 ---
 Will create the article later okay hello2335456
 
-Link to 2 123
+Link to 2 123 456
 
 [/image-article](/image-article)
 
