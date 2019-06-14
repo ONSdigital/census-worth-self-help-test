@@ -9,6 +9,4 @@ Stress body trhrthrth
 
 raashid
 
-
-
-save 123
+ian save
