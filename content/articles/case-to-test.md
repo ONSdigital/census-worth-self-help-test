@@ -1,6 +1,6 @@
 ---
 title: case to test
-date: 2019-06-27T08:19:22.987Z
+date: 2020-07-03T23:00:00.000Z
 description: test
 directory: Bad Articles
 priority: 1
