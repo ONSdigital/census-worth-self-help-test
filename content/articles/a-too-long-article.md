@@ -17,10 +17,4 @@ Link to 2 123 456
 
 ![test](/assets/screenshot-2019-06-06-at-15.48.20.png "test")
 
-[/videos/my-video.mp4](/videos/my-video.mp4)
-
-[My Video](/videos/my-video.mp4)
-
-
-
 <https://storage.cloud.google.com/census-worth-dev-assets/videos/my-video.mp4>
