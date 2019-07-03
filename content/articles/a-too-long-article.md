@@ -19,6 +19,8 @@ Link to 2 123 456
 
 [/videos/my-video.mp4](/videos/my-video.mp4)
 
-
-
 [My Video](/videos/my-video.mp4)
+
+
+
+<https://storage.cloud.google.com/census-worth-dev-assets/videos/my-video.mp4>
