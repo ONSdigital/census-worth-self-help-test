@@ -16,3 +16,9 @@ Link to 2 123 456
 [/image-article](/image-article)
 
 ![test](/assets/screenshot-2019-06-06-at-15.48.20.png "test")
+
+[/videos/my-video.mp4](/videos/my-video.mp4)
+
+
+
+[My Video](/videos/my-video.mp4)
