@@ -5,10 +5,8 @@ description: jdffhdfghd
 directory: Bad Articles
 priority: 0
 ---
-sgasfsfssg
+[sgasfsfssg](/new-article-for-view)
 
+[asdoksdas](/case-to-test//new-article-for-view)
 
-
-
-
-[asdoksdas](/case-to-test/)
+[aoksd;lskd](/new-article-for-view/case-to-test)
