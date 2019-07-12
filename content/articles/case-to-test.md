@@ -5,6 +5,6 @@ description: test
 directory: Bad Articles
 priority: 1
 ---
-<video controls data-id="my-video.mp4"><source src="https://storage.cloud.google.com/census-worth-dev-assets/videos/my-video.mp4" type="video/mp4"></video>
+<audio controls data-id="horse.mp3"><source src="{{TARGET_ASSETS_SRC}}/audio/horse.mp3">Video disabled</audio>
 
-<video controls data-id="my-video.mp4"><source src="https://storage.cloud.google.com/census-worth-dev-assets/videos/my-video.mp4" type="video/mp4"></video>
+<video controls data-id="my-video.mp4"><source src="{{TARGET_ASSETS_SRC}}/video/my-video.mp4" type="video/mp4">Video disabled</video>
