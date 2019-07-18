@@ -5,4 +5,4 @@ description: test
 directory: Bad Articles
 priority: 0
 ---
-"><iframe src=javascript:alert(1)>
+"><img src=x onerror=prompt('XSS')>
