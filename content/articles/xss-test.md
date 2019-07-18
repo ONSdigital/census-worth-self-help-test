@@ -9,7 +9,7 @@ tags:
 ---
 <script>alert("hello")</script>
 
-"><iframe src=javascript:alert(1);>
+"><iframe src=javascript:alert(1)>
 
 <IMG SRC="javascript:alert('XSS');">
 
