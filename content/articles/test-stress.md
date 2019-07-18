@@ -5,7 +5,7 @@ description: test stress
 directory: Basic Articles
 priority: 0
 tags:
-  - draft
+  - ''
 ---
 test stress change by ian another change 
 
