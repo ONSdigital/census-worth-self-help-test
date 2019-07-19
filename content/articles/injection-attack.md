@@ -10,4 +10,8 @@ If you see an alert message this has failed
 
 <script>alert('xss');</script>
 
-We should include more tests
+We should include more testsadasd
+
+<script>alert('xss');</script>
+
+asd
