@@ -11,4 +11,6 @@ signedby: xss'<p onmouseover='alert("XSS")'>xss
 tags:
   - xss'<p onmouseover='alert("XSS")'>xss
 ---
+![](/assets/city.jpg)
+
 fdfdf
