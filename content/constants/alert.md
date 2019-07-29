@@ -1,5 +1,5 @@
 ---
 alert_title: ''
-alert_content: test
+alert_content: ''
 ---
 
