@@ -8,6 +8,9 @@ tags:
   - draft
   - webchat
   - popular
+departments:
+  - CFODS
+  - Logistics
 ---
 Will create the article later okay hello23354567 - Set as a draft!
 
