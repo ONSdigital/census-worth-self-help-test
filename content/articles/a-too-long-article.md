@@ -8,7 +8,7 @@ tags:
   - draft
   - webchat
   - popular
-externalreference: test
+externalreference: test2
 departments:
   - CFODS
   - Logistics
