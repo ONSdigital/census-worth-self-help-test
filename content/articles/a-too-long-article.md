@@ -8,8 +8,7 @@ tags:
   - draft
   - webchat
   - popular
-contentsource: >-
-  http://localhost:8000/directory/directory/directory/directory/directory/directory/directory/directory/directory/directory/directory/directory/directory/directory/
+externalreference: test
 departments:
   - CFODS
   - Logistics
