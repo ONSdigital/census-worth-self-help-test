@@ -57,7 +57,7 @@ signedby: agdadsf
 
 <td>Column1 Row 3</td>
 
-<td>Column2 Row 3</td>
+
 
 <td>Column3 Row 3</td>
 
@@ -75,7 +75,7 @@ signedby: agdadsf
 
 <td>Column2 Row 4</td>
 
-<td>Column3 Row 4</td>
+
 
 <td>Column4 Row 4</td>
 
