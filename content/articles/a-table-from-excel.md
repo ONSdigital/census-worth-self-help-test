@@ -10,6 +10,8 @@ contentsource: >-
 date: 2019-11-07T16:29:27.645Z
 title: A table from excel
 description: auto from my excel "tool"
+roles:
+  - B Role
 role:
   - My Role
 directory: Format Tests
