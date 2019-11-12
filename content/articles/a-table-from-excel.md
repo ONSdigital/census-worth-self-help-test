@@ -12,6 +12,7 @@ title: A table from excel
 description: auto from my excel "tool"
 roles:
   - B Role
+  - A Role
 role:
   - My Role
 directory: Format Tests
