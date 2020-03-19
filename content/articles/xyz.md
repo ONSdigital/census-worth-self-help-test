@@ -1,6 +1,6 @@
 ---
 cconly: false
-draftreason: To be published on a specific date
+draftreason: Ready for Live Site
 departments:
   - CFODS
   - erpowekrpoke
