@@ -27,7 +27,7 @@ This document explains how to convert Microsoft files into Google files, and Goo
 * Open the Microsoft file you want to convert from the icons underneath the ‘**Start a new document**’ section * Select ‘**open file picker**’ 
 
   ![](/assets/tulips.jpg)
-* Select ‘**Upload**’ from the pop-up box that appears   *You can either drag the file from your C:\ or from an email on to the area that says, ‘**Drag a file here**’      ![](/assets/converting_microsoft_files_to_g_suite_files_guide_3.jpg " ")    ![](/assets/google002.png)*   Or ‘**select a file from your device**’ will allow to open a file saved to your laptop 
+* Select ‘**Upload**’ from the pop-up box that appears   *You can either drag the file from your C:\ or from an email on to the area that says, ‘**Drag a file here**’*    Or ‘**select a file from your device**’ will allow to open a file saved to your laptop 
 
   ![](/assets/city.jpg)
 
