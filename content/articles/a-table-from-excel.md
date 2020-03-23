@@ -22,7 +22,7 @@ role:
   - My Role
 optimisedby: Carol Danvers - Marvel
 ---
-![a](assets/tulips.jpg "a")
+![a](/assets/tulips.jpg "a")
 
 <table>
 
