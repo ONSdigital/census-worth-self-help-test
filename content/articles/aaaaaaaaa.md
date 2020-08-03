@@ -8,7 +8,7 @@ title: aaaaaaaaa
 description: bbbbbb
 roles:
   - My Role
-directory: deep 3
+directory: Bad Articles
 priority: 0
 tags:
   - xss'<p onmouseover='alert("XSS")'>xss
