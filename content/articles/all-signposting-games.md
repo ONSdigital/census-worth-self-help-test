@@ -19,6 +19,9 @@ tags:
   - games
   - accommodation
   - challenges
+  - life
+  - style
+  - lifestyle
   - ""
 author: Steph Tubbs
 optimisedby: Steph Tubbs - ONS
